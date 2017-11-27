@@ -12,6 +12,7 @@ p {
 }
 
 div{
+	<a href="http://www.nba.com/#/" class="btnAzul">Da Click</a>
         height: 50px;
 	width: 120px;
 	background-color: #33ff7a;
