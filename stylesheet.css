@@ -19,5 +19,9 @@ div{
 	border-color:  #110911;
 	border-radio:5px;
 
-
+}
+span{
+	font-weight: bold;
+	font-size: 18px;
+	color: #ffffff
 }
