@@ -15,9 +15,9 @@ div{
 	
         height: 50px;
 	width: 120px;
-	background-color:  #88228d;
-	border-color:  #110911;
-	border-radio:5px;
+	background-color: #88228d;
+	border-color: #110911;
+	border-radius: 5px;
 
 }
 span{
